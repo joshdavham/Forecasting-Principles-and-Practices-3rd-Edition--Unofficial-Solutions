@@ -1,6 +1,6 @@
 # Forecasting-Principles-and-Practices-3rd-Edition--Unofficial-Solutions
 
-[**Quick note**: Github generally struggles to display .ipynb files within online repositories and so you may have to reload the webpage a couple of times if you'd like to see the solutions online. Otherwise, you could always download these .ipynb files to view them locally (which will generally be easier).]
+[**Quick note**: Github generally struggles to display .ipynb files within online repositories and so you may have to reload the webpage a couple of times if you'd like to see the solutions online. Otherwise, you could always download these .ipynb files to view them locally (*which will generally be easier*).]
 
 This repository includes my personal solutions to the excerices from Forecasting: Principles and Practices 3rd Edition, by Rob J. Hyndman and George Athanasopoulos.
 
